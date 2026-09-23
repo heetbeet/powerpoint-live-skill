@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerPoint live"
+  short_description: "Edit open PowerPoint decks with compact live feedback"
+  default_prompt: "Use $powerpoint-live to inspect my current slide and edit it live in PowerPoint."
